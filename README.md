@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://www.github.com/VishalMauryastp/3column-preview-card-component-main)
-- Live Site URL: [Click Here](https://vishalmauryastp.github.io/3column-preview-card-component-main/)
+- Solution URL: [Click Here](https://www.github.com/VishalMauryastp/3-column-preview-card-component-main)
+- Live Site URL: [Click Here](https://vishalmauryastp.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
