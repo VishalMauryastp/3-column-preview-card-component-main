@@ -1,0 +1,56 @@
+main {
+  .card {
+    margin: 1rem;
+    border-radius: 10px;
+    overflow: hidden;
+    display: grid;
+    place-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(285px, 1fr));
+
+
+    &__Sedans {
+      background-color: hsl(31, 77%, 52%);
+      h1 {
+      
+      }
+      button{
+        color: hsl(31, 77%, 52%) ;
+        &:hover{
+            color: hsl(0, 0%, 95%);
+            border: 2px solid hsl(0, 0%, 95%);
+            background-color:   hsl(31, 77%, 52%);
+        }
+      }
+      
+    }
+    &__SUVs {
+      background-color: hsl(184, 100%, 22%);
+      h2 {
+      
+        
+      }
+      button{
+        color:hsl(184, 100%, 22%) ;
+        &:hover{
+            color: hsl(0, 0%, 95%);
+            border: 2px solid hsl(0, 0%, 95%);
+            background-color:  hsl(184, 100%, 22%);
+        }
+      }
+    }
+    &__Luxury {
+      background-color: hsl(179, 100%, 13%);
+      h3 {
+       
+      }
+      button{
+        color: hsl(179, 100%, 13%) ;
+        &:hover{
+            color: hsl(0, 0%, 95%);
+            border: 2px solid hsl(0, 0%, 95%);
+            background-color:  hsl(179, 100%, 13%);
+        }
+      }
+    }
+  }
+}
